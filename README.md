@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Workbench&size=40&duration=3000&pause=500&center=true&vCenter=true&multiline=true&random=false&width=1000&height=150&lines=Hi+%F0%9F%91%8B%2C+I'm+Denis;Welcome+to+my+GitHub!" alt="Typing SVG" /></a>
 
-- 🔭 I’m currently working at **Tinkoff**
-- 🌱 I’m currently learning **QA Automation & DevOps**
+- 🔭 QA Engineer with 3+ years of experience in automated and manual testing and 1+ year in web development 
+- 💼 Currently working at **Tinkoff**
 
 <h2 align="left">🤝 Connect with me:</h2>
 <p align="left">
