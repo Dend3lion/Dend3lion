@@ -2,7 +2,7 @@
 
 - 🔭 QA Engineer with 4+ years of experience 
 - 💼 Currently working at Tinkoff
-- 🚀 Proficient in both manual and automated testing, with expertise in Devops practices and a background in web development
+- 🚀 Proficient in both manual and automated testing, with background in web development and expertise in DevOps practices 
 
 <h2 align="left">🤝 Connect with me:</h2>
 <p align="left">
