@@ -11,6 +11,16 @@
 </p>
 
 <h2 align="left">🛠️ Technologies and Tools:</h2>
+<h4 align="left">Languages:</h4>
+<div>
+<img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=flat-square">
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square">
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square">
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square">
+<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square">
+<img alt="Microsoft SQL Server" src="https://img.shields.io/badge/MS_SQL-CC2927?logo=microsoftsqlserver&logoColor=white&style=flat-square">
+</div>
+
 <h4 align="left">Testing:</h4>
 <div>
 <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white&style=flat-square">
