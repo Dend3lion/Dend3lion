@@ -13,46 +13,46 @@
 <h2 align="left">🛠️ Technologies and Tools:</h2>
 <h4 align="left">Languages:</h4>
 <div>
-<img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=flat-square">
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square">
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square">
-<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square">
-<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square">
-<img alt="Microsoft SQL Server" src="https://img.shields.io/badge/MS_SQL-CC2927?logo=microsoftsqlserver&logoColor=white&style=flat-square">
+<img alt="Java" src="https://img.shields.io/badge/Java-6B8EAD?logo=openjdk&logoColor=white&style=flat-square">
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-C6C374?logo=javascript&logoColor=black&style=flat-square">
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-709DB0?logo=typescript&logoColor=white&style=flat-square">
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-9B6B40?logo=html5&logoColor=white&style=flat-square">
+<img alt="CSS3" src="https://img.shields.io/badge/CSS3-5E798E?logo=css3&logoColor=white&style=flat-square">
+<img alt="Microsoft SQL Server" src="https://img.shields.io/badge/MS_SQL-A86B6B?logo=microsoftsqlserver&logoColor=white&style=flat-square">
 </div>
 
 <h4 align="left">Testing:</h4>
 <div>
-<img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white&style=flat-square">
-<img alt="Selenide" src="https://img.shields.io/badge/Selenide-4A90E2?logo=selenide&logoColor=white&style=flat-square">
-<img alt="Jest" src="https://img.shields.io/badge/Jest-99424F?logo=jest&logoColor=white&style=flat-square">
-<img alt="Testing Library" src="https://img.shields.io/badge/Testing_Library-E33332?logo=testinglibrary&logoColor=white&style=flat-square">
-<img alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white&style=flat-square">
-<img alt="Webdriver.IO" src="https://img.shields.io/badge/Webdriver.IO-50A074?logo=webdriverio&logoColor=white&style=flat-square">
-<img alt="Playwright" src="https://img.shields.io/badge/Playwright-34495E?logo=playwright&logoColor=white&style=flat-square">
+<img alt="Selenium" src="https://img.shields.io/badge/Selenium-7CA85E?logo=selenium&logoColor=white&style=flat-square">
+<img alt="Selenide" src="https://img.shields.io/badge/Selenide-5E9FB5?logo=selenide&logoColor=white&style=flat-square">
+<img alt="Jest" src="https://img.shields.io/badge/Jest-89656D?logo=jest&logoColor=white&style=flat-square">
+<img alt="Testing Library" src="https://img.shields.io/badge/Testing_Library-99615D?logo=testinglibrary&logoColor=white&style=flat-square">
+<img alt="Cypress" src="https://img.shields.io/badge/Cypress-535D6C?logo=cypress&logoColor=white&style=flat-square">
+<img alt="Webdriver.IO" src="https://img.shields.io/badge/Webdriver.IO-6E956C?logo=webdriverio&logoColor=white&style=flat-square">
+<img alt="Playwright" src="https://img.shields.io/badge/Playwright-4D646E?logo=playwright&logoColor=white&style=flat-square">
 </div>
 
 <h4 align="left">DevOps:</h4>
 <div>
-<img alt="GitLab CI" src="https://img.shields.io/badge/GitLab_CI-FCA121?logo=gitlab&logoColor=white&style=flat-square">
-<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=flat-square">
-<img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=flat-square">
-<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square">
-<img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square">
-<img alt="Selenoid" src="https://img.shields.io/badge/Selenoid-00B3E6?logo=selenoid&logoColor=white&style=flat-square">
-<img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white&style=flat-square">
+<img alt="GitLab CI" src="https://img.shields.io/badge/GitLab_CI-BF8B49?logo=gitlab&logoColor=white&style=flat-square">
+<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-6E98B6?logo=githubactions&logoColor=white&style=flat-square">
+<img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-A56262?logo=jenkins&logoColor=white&style=flat-square">
+<img alt="Docker" src="https://img.shields.io/badge/Docker-657EB4?logo=docker&logoColor=white&style=flat-square">
+<img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-6E92B3?logo=kubernetes&logoColor=white&style=flat-square">
+<img alt="Selenoid" src="https://img.shields.io/badge/Selenoid-46A3C2?logo=selenoid&logoColor=white&style=flat-square">
+<img alt="Ansible" src="https://img.shields.io/badge/Ansible-BB3333?logo=ansible&logoColor=white&style=flat-square">
 </div>
   
 <h4 align="left">Tools:</h4>
 <div>
-<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat-square">
-<img alt="DevTools" src="https://img.shields.io/badge/DevTools-0A0A0A?logo=googlechrome&logoColor=white&style=flat-square">
-<img alt="Appium" src="https://img.shields.io/badge/Appium-8FC73E?logo=appium&logoColor=white&style=flat-square">
-<img alt="Browserstack" src="https://img.shields.io/badge/Browserstack-1677FF?logo=browserstack&logoColor=white&style=flat-square">
-<img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=flat-square">
-<img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat-square">
-<img alt="Allure Report" src="https://img.shields.io/badge/Allure_Report-FF4500?logo=allure&logoColor=white&style=flat-square">
-<img alt="Allure TestOps" src="https://img.shields.io/badge/Allure_TestOps-1F425F?logo=allure&logoColor=white&style=flat-square">
+<img alt="Postman" src="https://img.shields.io/badge/Postman-B76868?logo=postman&logoColor=white&style=flat-square">
+<img alt="DevTools" src="https://img.shields.io/badge/DevTools-404040?logo=googlechrome&logoColor=white&style=flat-square">
+<img alt="Appium" src="https://img.shields.io/badge/Appium-7EA36B?logo=appium&logoColor=white&style=flat-square">
+<img alt="Browserstack" src="https://img.shields.io/badge/Browserstack-5E89A3?logo=browserstack&logoColor=white&style=flat-square">
+<img alt="Jira" src="https://img.shields.io/badge/Jira-5E7D98?logo=jira&logoColor=white&style=flat-square">
+<img alt="Figma" src="https://img.shields.io/badge/Figma-8B4E4E?logo=figma&logoColor=white&style=flat-square">
+<img alt="Allure Report" src="https://img.shields.io/badge/Allure_Report-B75151?logo=allure&logoColor=white&style=flat-square">
+<img alt="Allure TestOps" src="https://img.shields.io/badge/Allure_TestOps-324D5C?logo=allure&logoColor=white&style=flat-square">
 </div>
 
 <h2 align="left">🌟 Featured Projects:</h2>
